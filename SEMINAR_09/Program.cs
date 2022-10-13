@@ -64,7 +64,7 @@
         //int.TryParse(Console.ReadLine(), out var minimum);
         //Console.Write("Введите Maximum: ");
         //int.TryParse(Console.ReadLine(), out var maximum);
-        //Console.WriteLine(SumEnumNumbers(minimum, maximum));
+        //Console.WriteLine("Сумма натуральных чисел: " + SumEnumNumbers(minimum, maximum));
 
         #endregion
 
